@@ -1,8 +1,6 @@
 # Data Analyst
 
-
-
-#Projects
+## Projects
   -Google Data Analysis Project 1
   -Google Data Analysis Project 2
   -Excel Data Analysis Project
@@ -11,6 +9,6 @@
   -Kaggle, Python Project: Data Cleaning and Visualization
   -Tableau Visualization Project
   
-#Work Experience
+## Work Experience
 
-#Education
+## Education
