@@ -1,4 +1,6 @@
-remote_theme: pages-themes/merlot@v0.2.0
-Title: [Simone Tagoe] 
-
+title: Shaw Talebi
+logo: /assets/img/headshot_circle.png
+#description: text below image
+show_downloads: true
+theme: jekyll-theme-minimal
 
